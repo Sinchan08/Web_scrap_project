@@ -13,11 +13,11 @@ This project scrapes the latest research paper titles, abstracts, and publicatio
 - Table Representation: Displays top research keywords.
 
 # Tech Stack
-> Python – Main programming language.
-> requests – Fetching data from arXiv API.
-> BeautifulSoup – Parsing HTML content.
-> Pandas – Data processing.
-> Matplotlib & Seaborn – Data visualization.
-> WordCloud – Generating word clouds.
+- Python – Main programming language.
+- requests – Fetching data from arXiv API.
+- BeautifulSoup – Parsing HTML content.
+- Pandas – Data processing.
+- Matplotlib & Seaborn – Data visualization.
+- WordCloud – Generating word clouds.
 
 
